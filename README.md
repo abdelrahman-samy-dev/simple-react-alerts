@@ -2,7 +2,7 @@
 
 A lightweight, customizable, and reusable **Alert Component** built with **React**, **TypeScript**, and **Vite**. Perfect for displaying notifications, success messages, errors, and warnings in your React applications.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen)](https://abdelrahman-samy-dev.github.io/simple-react-alerts/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen)](https://simple-react-alerts.vercel.app/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
