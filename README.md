@@ -19,7 +19,7 @@ A lightweight, customizable, and reusable **Alert Component** built with **React
 
 ## 🚀 Live Demo
 
-Check out the live demo: [**Simple React Alerts**](https://abdelrahman-samy-dev.github.io/simple-react-alerts/)
+Check out the live demo: [**Simple React Alerts**](https://simple-react-alerts.vercel.app/)
 
 ## 📸 Preview
 
